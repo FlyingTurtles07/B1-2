@@ -1,0 +1,299 @@
+# SA Joe Coffee 광고 영상 스토리보드
+
+## 1. 브랜드 아이덴티티
+
+| 항목 | 내용 |
+|------|------|
+| **타겟** | 20~40대 커피 애호가 / 홈카페 소비자 (새로운 향미 경험 추구) |
+| **톤앤매너** | 프리미엄, 감각적, 자연스러운(내추럴), 부드러운 딸기빛 파스텔 + 딥한 커피 브라운의 대비 |
+| **USP** | 인공 향료 없는 **천연 딸기향 원두** (국내 최초 독점 공급) |
+| **핵심 키워드** | Natural · Strawberry · Aroma · Premium |
+
+---
+
+# 2. 캠페인 목표
+
+**목표**
+
+- 신규 브랜드 인지도 확보
+- "향료 없는 진짜 딸기향 커피"라는 차별점 각인
+
+**핵심 메시지**
+
+> **커피 한 모금에, 맛있는 신기한 순간 — Special(Strawberry) Aroma Coffee**
+
+---
+
+# 3. 스토리보드 (총 10초)
+
+| Scene | 길이 | 목표 메시지 | 화면 구성 | 카메라 | 등장인물 | 자막 | AI 도구 | 출력 파일 |
+|------|------|------------|-----------|---------|---------|------|----------|-----------|
+| **Scene 1** | 2.0초 | 프리미엄 스페셜티 커피 첫인상 | 하트 라떼아트 제작 | Top Shot / Macro / Slow Push-in | 호주 전문 바리스타(손) | 없음 | ChatGPT + 네이토 | S01_LatteArt_8K.mp4 |
+| **Scene 2** | 2.5초 | 첫 모금의 깊은 풍미 전달 | 한국인 여성이 커피를 마시고 향을 맡음 | Medium Close-up → Face Close-up | 20대 한국인 여성 | 없음 | ChatGPT + 네이토 | S02_FirstSip_8K.mp4 |
+| **Scene 3** | 3.0초 | 천연 딸기향 표현 | 여성 주변으로 딸기와 향기 입자 연출 | Face Close-up → Orbit Camera | 동일 여성 | 없음 | ChatGPT + 네이토 | S03_StrawberryFlavor_8K.mp4 |
+| **Scene 4** | 4.0초 | 호주 바리스타 로스팅 신뢰성 전달 | 로스터기 원두 → 브랜드 로고 | Match Cut → Hero Shot | 없음 | 브랜드 로고 및 슬로건 | ChatGPT + 네이토 | S04_Roasting_Ending_8K.mp4 |
+
+---
+
+# Scene 1
+
+## 목표
+호주 전문 바리스타가 만드는 프리미엄 스페셜티 커피의 첫인상을 전달한다.
+
+### 화면 구성
+
+- Top Shot
+- Extreme Close-up
+- Slow Push-in
+- 하트 라떼아트
+- 따뜻한 우드톤 카페
+
+### 효과음
+
+- 에스프레소 추출음
+- 우유 스팀 소리
+
+### AI 도구
+
+- ChatGPT
+- 네이토
+
+### 프롬프트
+
+```text
+Professional Australian specialty barista creating perfect heart latte art, top-down macro shot, close-up of hands and ceramic cup, creamy milk swirling into espresso, warm wooden cafe, golden morning light, shallow depth of field, cinematic realism, ultra photorealistic, 85mm macro lens, HDR, 16:9, 8K UHD
+````
+
+### 출력
+
+* S01_LatteArt_8K.mp4
+
+---
+
+# Scene 2
+
+## 목표
+
+첫 모금으로 깊은 풍미와 향을 경험한다.
+
+### 화면 구성
+
+* Medium Close-up
+* Slow Dolly-in
+* 한국인 여성
+* 하트 라떼
+
+### 내레이션
+
+> "음... 맛있다."
+
+### AI 도구
+
+* ChatGPT
+* 네이토
+
+### 프롬프트
+
+```text
+Young Korean woman receiving heart latte, closing eyes while taking first sip, natural smile, softly saying "Mmm... delicious.", smelling the coffee aroma through her nose, opening her eyes in surprise, cinematic lighting, realistic skin, shallow depth of field, premium cafe interior, 50mm lens, 16:9, 8K UHD
+```
+
+### 출력
+
+* S02_FirstSip_8K.mp4
+
+---
+
+# Scene 3
+
+## 목표
+
+커피 속 천연 딸기향을 시각적으로 표현한다.
+
+### 화면 구성
+
+* Face Close-up
+* Orbit Camera
+* 딸기 연출
+* 향기 입자
+
+### 내레이션
+
+> "어? 딸기향이 나네..."
+
+### AI 도구
+
+* ChatGPT
+* 네이토
+
+### 프롬프트
+
+```text
+Young Korean woman smelling coffee aroma, surprised expression, fresh strawberries slowly floating around her, magical aroma particles, camera smoothly zooming out from face close-up to full body shot, dreamy cinematic atmosphere, warm premium coffee shop, ultra realistic, volumetric light, 35mm lens, HDR, 16:9, 8K UHD
+```
+
+### 출력
+
+* S03_StrawberryFlavor_8K.mp4
+
+---
+
+# Scene 4
+
+## 목표
+
+호주 전문 바리스타가 직접 로스팅한 스페셜티 원두라는 신뢰를 전달한다.
+
+### 화면 구성
+
+* Match Cut
+* Macro Close-up
+* Hero Shot
+* 로스터기 내부 원두
+* 브랜드 로고
+
+### 자막
+
+**호주 전문 바리스타가 직접 로스팅해 추천한**
+
+**Premium Specialty Coffee**
+
+**SA Joe Coffee**
+
+### AI 도구
+
+* ChatGPT
+* 네이토
+
+### 프롬프트
+
+```text
+Fresh specialty coffee beans roasting inside premium coffee roaster, cinematic close-up, rich smoke, warm golden light, luxurious atmosphere, smooth transition from previous scene, premium coffee commercial ending, clean composition for brand logo and slogan, HDR, photorealistic, 100mm macro lens, 16:9, 8K UHD
+```
+
+### 출력
+
+* S04_Roasting_Ending_8K.mp4
+
+---
+
+# 4. 사용 AI 도구
+
+| 구분     | 추천            | 대체 도구                      |
+| ------ | ------------- | -------------------------- |
+| 이미지 생성 | ChatGPT + 네이토 | Flow                       |
+| 영상 생성  | 네이토           | Flow                       |
+| 오디오    | CapCut        | Suno / ElevenLabs / Mubert |
+
+---
+
+# 5. 프롬프트 수정 로그
+
+## Scene 1
+
+### 수정 전
+
+* 라떼아트 생성
+
+### 문제
+
+* 하트 모양이 일정하지 않음
+
+### 수정
+
+* Macro Lens
+* Perfect Heart Latte Art
+* Slow Push-in
+* Cinematic Lighting
+* Ultra Photorealistic
+
+### 결과
+
+하트 라떼아트가 더욱 선명하고 자연스럽게 생성되었다.
+
+---
+
+# 6. 스토리라인
+
+1. 프리미엄 커피 제작
+2. 첫 모금
+3. 천연 딸기향 경험
+4. 브랜드 신뢰 형성
+5. 브랜드 로고 노출
+
+### 브랜드 인지 장치
+
+* SA Joe Coffee 로고
+* Premium Specialty Coffee
+* 슬로건 노출
+
+---
+
+# 7. 미디어 일관성
+
+## 해상도
+
+* 16:9
+* 8K 생성
+* 최종 1080p 출력
+
+## 톤앤매너
+
+* Warm Brown
+* Strawberry Pastel
+* Golden Morning Light
+
+## 오디오
+
+* 잔잔한 프리미엄 BGM
+* 커피 추출 효과음
+* 자연스러운 내레이션
+
+## 스타일 일관성
+
+* 동일 여성 캐릭터 유지
+* 동일 카페 배경 유지
+* 동일 색감 유지
+
+## 편집
+
+* CapCut
+* 컷 편집
+* 색보정
+* 자막
+* 오디오 믹싱
+
+---
+
+# 8. 제작 전략
+
+## 크레딧 절약
+
+* 이미지 생성 후 영상화
+* 동일 캐릭터 재사용
+* 스타일 고정
+
+## 대체 전략
+
+* 네이토 사용 불가 시 Flow 사용
+* CapCut으로 후편집
+
+---
+
+# 9. 최종 영상 스펙
+
+| 항목       | 내용                     |
+| -------- | ---------------------- |
+| 파일명      | SAJoeCoffee_10s_Ad.mp4 |
+| 길이       | 10초                    |
+| 해상도      | 1920×1080 (1080p)      |
+| 프레임레이트   | 30fps                  |
+| 비디오 코덱   | H.264                  |
+| 오디오 코덱   | AAC                    |
+| AI 시각 요소 | 이미지 생성 + 영상 생성         |
+| AI 청각 요소 | AI BGM + 효과음           |
+
+```
+
+이 형식은 GitHub, Obsidian, VS Code, Typora 등 대부분의 Markdown 편집기에서 바로 사용할 수 있습니다.
+```
