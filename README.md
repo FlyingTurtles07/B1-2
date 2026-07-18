@@ -29,7 +29,6 @@ SA joe Coffee 스토리 보드 작성
 | **Scene 3** | **3.0초** | 커피 속 딸기향을 시각적으로 표현하여 브랜드의 차별성을 강조한다.                  | 얼굴 클로즈업에서 시작하여 카메라가 천천히 줌아웃한다. 여성 주변으로 신선한 딸기들이 천천히 떠오르고 은은한 붉은 향기 입자가 퍼진다. | **Face Close-up → Full Body Shot, Orbit Camera, Slow Zoom-out, Cinematic Motion, 35mm Lens, 16:9, 8K UHD**        | 동일 여성             | 같은 카페           | 없음                                                                                       | **"어? 딸기향이 나네..."** | **ChatGPT + 네이토**     | 딸기 연출, 카메라 이동
 | **Scene 4** | **4.0초** | 호주 전문 바리스타가 직접 로스팅한 스페셜티 원두라는 브랜드 신뢰를 전달하며 광고를 마무리한다. | 전신샷에서 로스팅 머신 내부의 원두로 자연스럽게 전환. 원두가 회전하며 로스팅되고 마지막에 브랜드 로고와 슬로건이 등장한다.       | **Match Cut → Macro Close-up → Hero Shot, Slow Push-in, 100mm Macro Lens, Warm Cinematic Lighting, 16:9, 8K UHD** | 등장인물 없음           | 전문 로스터리         | **텍스트 표시**<br>**호주 전문 바리스타가 직접 로스팅해 추천한**<br>**Premium Specialty Coffee**<br>(브랜드 로고 노출) | 내레이션 없음 (잔잔한 음악 유지) | **ChatGPT + 네이토**          | 로스팅 영상 생성, 엔딩 BGM 제작       | **Fresh specialty coffee beans roasting inside premium coffee roaster, cinematic close-up, rich smoke, warm golden light, luxurious atmosphere, smooth transition from previous scene, premium coffee commercial ending, clean composition for brand logo and slogan, HDR, photorealistic, 100mm macro lens, 16:9, 8K UHD**          | 프리미엄 원두 로스팅과 브랜드 슬로건으로 광고 마무리 | **S04_Roasting_Ending_8K.mp4**  | 로고 등장 (자막/로고) *"SA Joe Coffee"* |
 
-> 💡 마지막 씬(S4)에 **브랜드명 + 로고 + 슬로건**을 모두 넣어 필수조건을 충족시켰어요.
 
 ---
 ## Scene 1
@@ -154,7 +153,7 @@ The woman and the background in the image attached below are the same |
 | **목표 메시지**       | 호주 전문 바리스타가 직접 로스팅한 스페셜티 원두라는 신뢰를 전달하며 광고를 마무리한다.                                                                                                                                                                                                                                                                         |
 | **화면 구성**        | **구도:** Match Cut → Macro Close-up → Hero Shot, Slow Push-in<br>**피사체:** 로스터기 내부에서 회전하는 스페셜티 원두와 브랜드 로고<br>**배경:** 프리미엄 전문 로스터리<br>**텍스트:** 「호주 전문 바리스타가 직접 로스팅해 추천한」<br>「Premium Specialty Coffee」<br>브랜드 로고 노출                                                                                                          |
 | **내레이션 / 화면 카피** | 내레이션 없음 / 잔잔한 프리미엄 BGM                                                                                                                                                                                                                                                                                                    |
-| **사용 도구 및 목적**   | **Midjourney:** 로스터리 이미지 생성<br>**Runway Gen-4:** 원두 로스팅 영상 생성<br>**Suno AI:** 엔딩 배경음악 제작                                                                                                                                                                                                                                  |
+| **사용 도구 및 목적**   | **Google Flow NanoBanana Pro:** 로스터리 이미지 생성<br>**Runway Gen-4:** 원두 로스팅 영상 생성<br>**Suno AI:** 엔딩 배경음악 제작                                                                                                                                                                                                                                  |
 | **입력 프롬프트**      | *Fresh specialty coffee beans roasting inside premium coffee roaster, cinematic close-up, rich smoke, warm golden light, luxurious atmosphere, smooth transition from previous scene, premium coffee commercial ending, clean composition for brand logo and slogan, HDR, photorealistic, 100mm macro lens, 16:9, 8K UHD* |
 
 |**영상 생성 프롬프트**  | *This is a smooth match cut where freshly baked specialty coffee beans from the previous coffee brewing scene roll inside a premium commercial coffee roaster. The beans rotate slowly in a perfectly synchronized movement while fragrant smoke rises naturally through the warm golden light. All the beans are added with rich oily texture and subtle highlights to emphasize freshness and premium quality.
@@ -210,11 +209,11 @@ I will attach the brand logo and package as an image |
 
 캠페인 제작 도구 및 시스템 구성
 각 파트별 최적의 결과를 도출하기 위해 전문 생성 AI 및 편집 툴을 결합한 하이브리드 워크플로우를 활용.
-비디오 생성: Google FLOW / 네이토 병행 사용
+비디오 생성: Google Flow / 네이토 병행 사용
 - 선정 이유: 먼저 네이토(sora2)에 이미지 없이 자세한 프롬프트 넣어 제작 했으나 4초짜리로 제작하여 그런지 퀄리티나 표현이 제대로 이뤄지지 못함  다시 이미지 생성 후 일관성 유지를 보완하면서 FLOW 사용해서 다시 제작해봄.
 오디오 / 내레이션: suno로 BGM 작성 / Google AI Studio  TTS 오디오 클립으로 나래이션 작성
 - 선정 이유: 광고 컨셉에 정교하게 부합하는 프리미엄 보이스 음성을 생성하기 위함.
-이미지 / 텍스트 그래픽: Flow NanoBanana Pro
+이미지 / 텍스트 그래픽: Google Flow NanoBanana Pro
 - 선정 이유: 실존 비주얼에 고해상도 상업용 레이아웃 텍스트 요소를 정밀 결합하기 위해 사용.
 영상 편집: CapCut (캡컷)
 - 선정 이유: 생성된 이미지, 비디오, 오디오 소스를 유기적으로 합성하고 하나의 완성도 높은 영상으로 재구성하기 위함.
@@ -311,8 +310,8 @@ a pleasant surprise **
 - **파일명:**
   > 힌트: 최종 MP4 이름을 적으세요.
 - **길이(초):10초**
-- **해상도:최소 720p 이상 Flow (veo3.1 fast)**
-- **프레임레이트:24 fps**
+- **해상도: 1080p 이상 Flow (veo3.1 fast)**
+- **프레임레이트: 30 fps**
 - **비디오/오디오 코덱:AVC (H.264) / AAC**
 - **포함된 AI 시각 요소:AI 로 제작된 이미지/영상 사용됨 **
-- **포함된 AI 청각 요소:AI 로 생성/BGM 사용**
+- **포함된 AI 청각 요소:AI 로 제작된 음성/BGM 사용**
