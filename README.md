@@ -157,25 +157,43 @@ The woman and the background in the image attached below are the same |
 | **사용 도구 및 목적**   | **Midjourney:** 로스터리 이미지 생성<br>**Runway Gen-4:** 원두 로스팅 영상 생성<br>**Suno AI:** 엔딩 배경음악 제작                                                                                                                                                                                                                                  |
 | **입력 프롬프트**      | *Fresh specialty coffee beans roasting inside premium coffee roaster, cinematic close-up, rich smoke, warm golden light, luxurious atmosphere, smooth transition from previous scene, premium coffee commercial ending, clean composition for brand logo and slogan, HDR, photorealistic, 100mm macro lens, 16:9, 8K UHD* |
 
-|**영상 생성 프롬프트**  | *Young Korean woman receives a freshly made heart latte from a specialty coffee barista. She closes her eyes while taking the first sip. A warm smile slowly appears. She softly says, "Mmm... delicious." Then gently inhales the coffee aroma through her nose before opening her eyes with a pleasantly surprised expression.
+|**영상 생성 프롬프트**  | *This is a smooth match cut where freshly baked specialty coffee beans from the previous coffee brewing scene roll inside a premium commercial coffee roaster. The beans rotate slowly in a perfectly synchronized movement while fragrant smoke rises naturally through the warm golden light. All the beans are added with rich oily texture and subtle highlights to emphasize freshness and premium quality.
 
-Premium specialty coffee shop interior.
-Natural cinematic lighting.
-Realistic skin texture.
-Shallow depth of field.
+The camera gently adheres to the extreme macro shot to reveal the fine-grained surface of the roasting beans. Golden reflections dance across the rotating beans and the smooth cinematic depth creates a luxurious atmosphere.
+
+When roasting reaches its most beautiful moment, the camera transitions smoothly to premium hero shots. To the right of the frame, a neat brand logo and elegant slogan naturally disappear, leaving enough negative space for commercial branding as the beans continue to rotate gracefully.
+
+The whole sequence feels like a luxury specialty coffee commercial shot in a professional Australian artisan roastery.
+
+Warm golden movie lights.
+Premium specialty coffee roastery.
+It's very realistic.
+a luxurious commercial atmosphere.
+Elegant premium coffee branding.
+natural coffee smoke.
+HDR photography realistic.
 
 Camera:
-Medium Close-up
-Slow Dolly-in
-Face Close-up
-50mm Lens
+Switch Match Cut
+Extreme Macro Close-Up
+a slow push-in
+Hero shot
+100mm macro lens
+shallow depth
 16:9
 8K UHD
 
-Emotion:
-Natural happiness
-Comfort
-Pleasant surprise |
+Tasks:
+Spinning freshly baked specialty coffee beans
+The smoke of natural roasting is floating up
+a warm golden reflection on coffee beans
+smooth cinematic movement
+Clean Logo Revealed
+Elegant slogan fade-in
+premium ad ending
+
+
+I will attach the brand logo and package as an image |
 
 | **출력 결과 요약**     | 프리미엄 원두 로스팅과 브랜드 슬로건으로 마무리되는 엔딩 장면                                                                                                                                                                                                                                                                                        |
 | **생성 파일명**       | **S04_Roasting_Ending_8K.mp4**                                                                                                                                                                                                                                                                                            |
