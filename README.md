@@ -188,22 +188,13 @@ Pleasant surprise |
 |------|-----------|-----------|-----------|
 | **이미지 생성** |ChatGPT 네이토 | Flow | 딸기+커피의 질감·색감 표현력이 뛰어나 프리미엄 무드 연출에 유리 |
 | **비디오 생성(이미지→영상)** | 네이토 | Flow | 정지 이미지에 자연스러운 움직임(향 피어오름, 쏟아짐) 부여에 강함 |
-| **오디오(BGM/효과음)** | 편집시 캡컷에서 음성추가 | Suno, ElevenLabs(내레이션), Mubert | 짧은 광고용 감성 BGM 생성이 쉽고, 내레이션은 ElevenLabs 병행 추천 |
+| **오디오(BGM/효과음)** | 편집시 캡컷에서 음성추가 | Suno, Google AI Studio  TTS 오디오 클립 | 짧은 광고용 감성 BGM 생성이 쉽고, 내레이션은 ElevenLabs 병행 추천 |
 
 캠페인 제작 도구 및 시스템 구성
-본 캠페인은 각 파트별 최적의 결과를 도출하기 위해 전문 생성 AI 및 편집 툴을 결합한 하이브리드 워크플로우를 활용합니다.
+각 파트별 최적의 결과를 도출하기 위해 전문 생성 AI 및 편집 툴을 결합한 하이브리드 워크플로우를 활용.
 비디오 생성: Google FLOW / 네이토 병행 사용
 - 선정 이유: 먼저 네이토(sora2)에 이미지 없이 자세한 프롬프트 넣어 제작 했으나 4초짜리로 제작하여 그런지 퀄리티나 표현이 제대로 이뤄지지 못함  다시 이미지 생성 후 일관성 유지를 보완하면서 FLOW 사용해서 다시 제작해봄.
-
-오디오 / 내레이션: OpenAI TTS 1.5 (FABLE 모델)    
-
-       AI Voice Clone API ,    ElevenLabs ,   typecast (무료 매월 5분 다운로드)
-
-
-
-
-
-
+오디오 / 내레이션: suno로 BGM 작성 / Google AI Studio  TTS 오디오 클립으로 나래이션 작성
 - 선정 이유: 광고 컨셉에 정교하게 부합하는 프리미엄 보이스 음성을 생성하기 위함.
 이미지 / 텍스트 그래픽: Flow NanoBanana Pro
 - 선정 이유: 실존 비주얼에 고해상도 상업용 레이아웃 텍스트 요소를 정밀 결합하기 위해 사용.
@@ -212,7 +203,7 @@ Pleasant surprise |
 
 [리스크 관리] 도구 접근성 제한 대비 대체 도구 목록:
 비디오 대체: Sora Pro
-오디오 대체: Gemini 2.5 Flash
+오디오 대체: Gemini 3.1 Flash, suno
 이미지 대체: GPT Image 2
 ---
 
@@ -245,7 +236,7 @@ There is no text.
 Like the attached image, the heart shape should come out completely**
 1 라떼아트 명확하게 하기위한 이미지 첨부
 
-- **결과 변화: 하트 모양이 비교적 정확하게 나옴, 여전히 만드는 과정에 미숙함**
+- **결과 변화: 하트 모양이 비교적 정확하게 나옴, 여전히 만드는 과정에 미숙함은 남아있음**
 
 ---
 
@@ -254,7 +245,7 @@ Like the attached image, the heart shape should come out completely**
 - **수정 전 의도: 여성이 맛있다 하면서 향을 느끼는 장면**
 - **발생한 문제: 한국어로 작성한 프롬프트에 "음.... 맛있어요" 라는 부분이 영어로 플롬프트 변환할때 "Well... delicious" 변화된걸 인지 못하고 그냥 씀**
 - **수정 후 변경 내용: 한국어로 맛있다 라고 한다로 변경**
-**변경 프롬프트:A young Korean woman is presented with a freshly made heart latte by a specialty coffee barista. She closes her eyes as she takes her first sip. A warm smile slowly appears. She gently says, "Well... delicious" in Korean. Then, gently inhale the scent of coffee through her nose, and then open her eyes with a pleasantly surprised expression.
+**변경 프롬프트:A young Korean woman is presented with a freshly made heart latte by a specialty coffee barista. She closes her eyes as she takes her first sip. A warm smile slowly appears. She gently says, "음...... 맛-있-다..." in Korean. Then, gently inhale the scent of coffee through her nose, and then open her eyes with a pleasantly surprised expression.
 
 Premium specialty coffee shop interior.
 Natural movie lighting.
@@ -274,17 +265,17 @@ natural happiness
 Comfort.
 a pleasant surprise
 **
+<img width="1920" height="1080" alt="씬2 카페배경 바리스타 및 여성 캐릭터 유지 위한 이미지" src="https://github.com/user-attachments/assets/343e6c01-cf02-4660-aec4-1f7c1cb11048" />
 
-- **결과 변화: 하트 모양이 비교적 정확하게 나옴, 여전히 만드는 과정에 미숙함**
+- **결과 변화: 대사 한국어로 수정됨 
+수정사항으로 프롬프트 변형해서 넣었더니 대사 한국어로 안변홤/ 새창으로 열고 캐릭터랑 배경 일관성 유지로 이미지 넣고 했더니 대사는 한국어로 고쳐짐 대신 장면 구성이 바뀜**
 
 ---
 
 
 ## 6. 서사 / 스토리라인 설명
-- **스토리 구조:**
-  > 힌트: 기승전결 구조인지, 또는 "누구에게 어떤 가치를 주는지" 구조인지 적으세요.
-- **마지막 3~5초 브랜드 인지 장치:**
-  > 힌트: 로고 / 브랜드명 / 슬로건 / CTA 중 무엇을 넣었는지 적으세요.
+- **스토리 구조:기승전결 구조 씬 3에서 놀라움이 마지막에 로고와 제품 패키지 강조로 이어지는 구조**
+- **마지막 3~5초 브랜드 인지 장치:브랜드 로고 브랜드명 제품 패키지**
 
 ## 7. 미디어 통합 & 일관성 관리
 - **해상도/비율 정리:**
@@ -299,25 +290,17 @@ a pleasant surprise
   > 힌트: 어떤 편집 툴로 컷/자막/색보정/오디오 조정만 했는지 적으세요.
 
 ## 8. 제작 전략 (현실적 문제 대응)
-- **크레딧/대기열 대응 전략:**
-  > 힌트: 씬 축소 / 정지 이미지+모션 / 스타일 고정 중 어떤 전략을 썼는지 적으세요.
-- **도구 접근성 문제 대응:**
-  > 힌트: 도구가 막혔을 때 어떻게 대처했는지(또는 대비했는지) 적으세요.
+- **크레딧/대기열 대응 전략: 브랜드 로고 패키지 이미지 사용**
+- **도구 접근성 문제 대응:다른 Gen AI 사용**
 
 ---
 
 ## 9. 최종 영상 스펙
 - **파일명:**
   > 힌트: 최종 MP4 이름을 적으세요.
-- **길이(초):**
-  > 힌트: 10초 이내인지 확인 후 적으세요.
-- **해상도:**
-  > 힌트: 1080p 권장, 최소 720p 이상으로 적으세요.
-- **프레임레이트:**
-  > 힌트: 24~30fps 범위로 적으세요.
-- **비디오/오디오 코덱:**
-  > 힌트: H.264 / AAC 로 적으세요.
-- **포함된 AI 시각 요소:**
-  > 힌트: AI로 만든 이미지/영상이 들어갔음을 적으세요.
-- **포함된 AI 청각 요소:**
-  > 힌트: AI 음성/효과음/배경음악 중 무엇이 들어갔는지 적으세요.
+- **길이(초):10초**
+- **해상도:최소 720p 이상**
+- **프레임레이트:24 fps**
+- **비디오/오디오 코덱:AVC (H.264) / AAC**
+- **포함된 AI 시각 요소:AI로 만든 이미지/영상이 들어갔음**
+- **포함된 AI 청각 요소:AI 음성/BGM 들어갔음**
