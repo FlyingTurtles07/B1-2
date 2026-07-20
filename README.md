@@ -24,10 +24,10 @@ SA joe Coffee 스토리 보드 작성
 
 | 씬           | 길이       | 목표 메시지                                                | 화면 구성                                                                       | 카메라 구도                                                                                                            | 등장인물              | 배경              | 자막                                                                                       | 내레이션 / 화면 카피        | 사용 AI 도구                                         | 사용 목적                      | 입력 프롬프트                                                                                                                                                                                                                                                                                                                              | 예상 출력 결과                      | 생성 파일명                          |
 | ----------- | -------- | ----------------------------------------------------- | --------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | ----------------- | --------------- | ---------------------------------------------------------------------------------------- | ------------------- | ------------------------------------------------ | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------- | ------------------------------- |
-| **Scene 1** | **2.0초** | 전문 바리스타가 만드는 프리미엄 커피의 첫인상을 전달한다.                      | 하트 라떼아트를 만드는 순간을 중심으로 에스프레소와 우유가 자연스럽게 섞이며 하트가 완성된다. 컵만 화면 중앙에 배치.          | **Top Shot(탑샷), Extreme Close-up, Macro Lens, Slow Push-in, 85mm Macro, 16:9, 8K UHD, Cinematic**                 | 호주 전문 바리스타(손만 등장) | 따뜻한 우드톤 스페셜티 카페 | 없음                                                                                       | 에스프레소 추출음, 우유 스팀 소리 | **ChatGPT + 네이토**       | 이미지 생성, 라떼아트 모션 생성 | **Professional Australian specialty barista creating perfect heart latte art, top-down macro shot, close-up of hands and ceramic cup, creamy milk swirling into espresso, warm wooden cafe, golden morning light, shallow depth of field, cinematic realism, ultra photorealistic, 85mm macro lens, HDR, 16:9, 8K UHD**              | 하트 라떼아트가 완성되는 프리미엄 오프닝 장면     | **S01_LatteArt_8K.mp4**         |
-| **Scene 2** | **2.5초** | 첫 모금만으로 깊은 맛과 향을 느끼는 경험을 전달한다.                        | 여성이 컵을 받아 눈을 감고 한 모금 마신다. 미소를 지으며 "음, 맛있다."라고 말한 뒤 코로 향을 맡고 눈을 크게 뜬다.       | **Medium Close-up → Face Close-up, Eye Level, Slow Dolly-in, 50mm Lens, 16:9, 8K UHD**                            | 20대 한국인 여성        | 감성적인 스페셜티 카페    | 없음                                                                                       | **"음... 맛있다."**     | **ChatGPT + 네이토** | 캐릭터 생성, 표정 애니메이션    | **Young Korean woman receiving heart latte, closing eyes while taking first sip, natural smile, softly saying "Mmm... delicious.", smelling the coffee aroma through her nose, opening her eyes in surprise, cinematic lighting, realistic skin, shallow depth of field, premium cafe interior, 50mm lens, 16:9, 8K UHD**            | 커피를 마시고 풍미와 향에 놀라는 자연스러운 연기   | **S02_FirstSip_8K.mp4**         |
-| **Scene 3** | **3.0초** | 커피 속 딸기향을 시각적으로 표현하여 브랜드의 차별성을 강조한다.                  | 얼굴 클로즈업에서 시작하여 카메라가 천천히 줌아웃한다. 여성 주변으로 신선한 딸기들이 천천히 떠오르고 은은한 붉은 향기 입자가 퍼진다. | **Face Close-up → Full Body Shot, Orbit Camera, Slow Zoom-out, Cinematic Motion, 35mm Lens, 16:9, 8K UHD**        | 동일 여성             | 같은 카페           | 없음                                                                                       | **"어? 딸기향이 나네..."** | **ChatGPT + 네이토**     | 딸기 연출, 카메라 이동
-| **Scene 4** | **4.0초** | 호주 전문 바리스타가 직접 로스팅한 스페셜티 원두라는 브랜드 신뢰를 전달하며 광고를 마무리한다. | 전신샷에서 로스팅 머신 내부의 원두로 자연스럽게 전환. 원두가 회전하며 로스팅되고 마지막에 브랜드 로고와 슬로건이 등장한다.       | **Match Cut → Macro Close-up → Hero Shot, Slow Push-in, 100mm Macro Lens, Warm Cinematic Lighting, 16:9, 8K UHD** | 등장인물 없음           | 전문 로스터리         | **텍스트 표시**<br>**호주 전문 바리스타가 직접 로스팅해 추천한**<br>**Premium Specialty Coffee**<br>(브랜드 로고 노출) | 내레이션 없음 (잔잔한 음악 유지) | **ChatGPT + 네이토**          | 로스팅 영상 생성, 엔딩 BGM 제작       | **Fresh specialty coffee beans roasting inside premium coffee roaster, cinematic close-up, rich smoke, warm golden light, luxurious atmosphere, smooth transition from previous scene, premium coffee commercial ending, clean composition for brand logo and slogan, HDR, photorealistic, 100mm macro lens, 16:9, 8K UHD**          | 프리미엄 원두 로스팅과 브랜드 슬로건으로 광고 마무리 | **S04_Roasting_Ending_8K.mp4**  | 로고 등장 (자막/로고) *"SA Joe Coffee"* |
+| **Scene 1** | **2.0초** | 전문 바리스타가 만드는 프리미엄 커피의 첫인상을 전달한다.                      | 하트 라떼아트를 만드는 순간을 중심으로 에스프레소와 우유가 자연스럽게 섞이며 하트가 완성된다. 컵만 화면 중앙에 배치.          | **Top Shot(탑샷), Extreme Close-up, Macro Lens, Slow Push-in, 85mm Macro, 16:9, 8K UHD, Resolution 1080p, Cinematic**                 | 호주 전문 바리스타(손만 등장) | 따뜻한 우드톤 스페셜티 카페 | 없음                                                                                       | 에스프레소 추출음, 우유 스팀 소리 | **ChatGPT + 네이토**       | 이미지 생성, 라떼아트 모션 생성 | **Professional Australian specialty barista creating perfect heart latte art, top-down macro shot, close-up of hands and ceramic cup, creamy milk swirling into espresso, warm wooden cafe, golden morning light, shallow depth of field, cinematic realism, ultra photorealistic, 85mm macro lens, HDR, 16:9, 8K UHD, Resolution 1080p**              | 하트 라떼아트가 완성되는 프리미엄 오프닝 장면     | **S01_LatteArt_8K.mp4**         |
+| **Scene 2** | **2.5초** | 첫 모금만으로 깊은 맛과 향을 느끼는 경험을 전달한다.                        | 여성이 컵을 받아 눈을 감고 한 모금 마신다. 미소를 지으며 "음, 맛있다."라고 말한 뒤 코로 향을 맡고 눈을 크게 뜬다.       | **Medium Close-up → Face Close-up, Eye Level, Slow Dolly-in, 50mm Lens, 16:9, 8K UHD, Resolution 1080p**                            | 20대 한국인 여성        | 감성적인 스페셜티 카페    | 없음                                                                                       | **"음... 맛있다."**     | **ChatGPT + 네이토** | 캐릭터 생성, 표정 애니메이션    | **Young Korean woman receiving heart latte, closing eyes while taking first sip, natural smile, softly saying "Mmm... delicious.", smelling the coffee aroma through her nose, opening her eyes in surprise, cinematic lighting, realistic skin, shallow depth of field, premium cafe interior, 50mm lens, 16:9, 8K UHD, Resolution 1080p**            | 커피를 마시고 풍미와 향에 놀라는 자연스러운 연기   | **S02_FirstSip_8K.mp4**         |
+| **Scene 3** | **3.0초** | 커피 속 딸기향을 시각적으로 표현하여 브랜드의 차별성을 강조한다.                  | 얼굴 클로즈업에서 시작하여 카메라가 천천히 줌아웃한다. 여성 주변으로 신선한 딸기들이 천천히 떠오르고 은은한 붉은 향기 입자가 퍼진다. | **Face Close-up → Full Body Shot, Orbit Camera, Slow Zoom-out, Cinematic Motion, 35mm Lens, 16:9, 8K UHD, Resolution 1080p**        | 동일 여성             | 같은 카페           | 없음                                                                                       | **"어? 딸기향이 나네..."** | **ChatGPT + 네이토**     | 딸기 연출, 카메라 이동
+| **Scene 4** | **2.0초** | 호주 전문 바리스타가 직접 로스팅한 스페셜티 원두라는 브랜드 신뢰를 전달하며 광고를 마무리한다. | 전신샷에서 로스팅 머신 내부의 원두로 자연스럽게 전환. 원두가 회전하며 로스팅되고 마지막에 브랜드 로고와 슬로건이 등장한다.       | **Match Cut → Macro Close-up → Hero Shot, Slow Push-in, 100mm Macro Lens, Warm Cinematic Lighting, 16:9, 8K UHD, Resolution 1080p** | 등장인물 없음           | 전문 로스터리         | **텍스트 표시**<br>**호주 전문 바리스타가 직접 로스팅해 추천한**<br>**Premium Specialty Coffee**<br>(브랜드 로고 노출) | 내레이션 없음 (잔잔한 음악 유지) | **ChatGPT + 네이토**          | 로스팅 영상 생성, 엔딩 BGM 제작       | **Fresh specialty coffee beans roasting inside premium coffee roaster, cinematic close-up, rich smoke, warm golden light, luxurious atmosphere, smooth transition from previous scene, premium coffee commercial ending, clean composition for brand logo and slogan, HDR, photorealistic, 100mm macro lens, 16:9, 8K UHD, Resolution 1080p**          | 프리미엄 원두 로스팅과 브랜드 슬로건으로 광고 마무리 | **S04_Roasting_Ending_8K.mp4**  | 로고 등장 (자막/로고) *"SA Joe Coffee"* |
 
 
 ---
@@ -41,7 +41,7 @@ SA joe Coffee 스토리 보드 작성
 | **화면 구성**        | **구도:** Top Shot → Extreme Close-up, Slow Push-in<br>**피사체:** 하트 라떼아트를 만드는 바리스타의 손과 세라믹 컵<br>**배경:** 따뜻한 우드톤의 스페셜티 카페, 골든 모닝 라이트<br>**텍스트:** 없음                                                                                                                                                                       |
 | **내레이션 / 화면 카피** | 에스프레소 추출음 + 우유 스팀 사운드(SFX)                                                                                                                                                                                                                                                                                            |
 | **사용 도구 및 목적**   | **ChatGPT:** 라떼아트 이미지 생성<br>**네이토:** 라떼아트 모션 생성                                                                                                                                                                                                                      |
-| **입력 프롬프트**      | *Professional Australian specialty barista creating perfect heart latte art, top-down macro shot, close-up of hands and ceramic cup, creamy milk swirling into espresso, warm wooden cafe, golden morning light, shallow depth of field, cinematic realism, ultra photorealistic, 85mm macro lens, HDR, 16:9, 8K UHD* |
+| **입력 프롬프트**      | *Professional Australian specialty barista creating perfect heart latte art, top-down macro shot, close-up of hands and ceramic cup, creamy milk swirling into espresso, warm wooden cafe, golden morning light, shallow depth of field, cinematic realism, ultra photorealistic, 85mm macro lens, HDR, 16:9, 8K UHD, Resolution 1080p* |
 
 |**영상 생성 프롬프트**  | *Professional Australian specialty barista creating perfect heart latte art. Top-down macro shot of only the ceramic cup and barista hands. Creamy steamed milk smoothly blends into rich espresso, forming a perfect heart latte art. Warm wooden specialty coffee shop, golden morning sunlight, cinematic realism, shallow depth of field, creamy texture, realistic steam, premium atmosphere.
 
@@ -52,6 +52,7 @@ Slow Push-in
 HDR
 16:9
 8K UHD
+Resolution 1080p
 Ultra Photorealistic
 
 Motion:
@@ -76,9 +77,9 @@ No text. |
 | **씬 길이**         | **2.5초**                                                                                                                                                                                                                                                                                                                |
 | **목표 메시지**       | 첫 모금만으로 깊은 풍미와 향을 경험하는 순간을 전달한다.                                                                                                                                                                                                                                                                                        |
 | **화면 구성**        | **구도:** Medium Close-up → Face Close-up, Eye Level, Slow Dolly-in<br>**피사체:** 20대 한국인 여성과 하트 라떼<br>**배경:** 감성적인 스페셜티 카페 내부<br>**텍스트:** 없음                                                                                                                                                                               |
-| **내레이션 / 화면 카피** | **"음... 맛 있 다 .."**                                                                                                                                                                                                                                                                                                         |
+| **내레이션 / 화면 카피** | **"음... 맛있다 .."**                                                                                                                                                                                                                                                                                                         |
 | **사용 도구 및 목적**   | **ChatGPT:** 인물 이미지 생성<br>**네이토:** 자연스러운 표정 및 모션 생성                                                                                                                                                                                                                          |
-| **입력 프롬프트**      | *Young Korean woman receiving heart latte, closing eyes while taking first sip, natural smile, softly saying "Mmm... delicious.", smelling the coffee aroma through her nose, opening her eyes in surprise, cinematic lighting, realistic skin, shallow depth of field, premium cafe interior, 50mm lens, 16:9, 8K UHD* |
+| **입력 프롬프트**      | *Young Korean woman receiving heart latte, closing eyes while taking first sip, natural smile, softly saying "Mmm... delicious.", smelling the coffee aroma through her nose, opening her eyes in surprise, cinematic lighting, realistic skin, shallow depth of field, premium cafe interior, 50mm lens, 16:9, 8K UHD, Resolution 1080p* |
 
 |**영상 생성 프롬프트**  | *Young Korean woman receives a freshly made heart latte from a specialty coffee barista. She closes her eyes while taking the first sip. A warm smile slowly appears. She softly says, "Mmm... delicious." Then gently inhales the coffee aroma through her nose before opening her eyes with a pleasantly surprised expression.
 
@@ -94,6 +95,7 @@ Face Close-up
 50mm Lens
 16:9
 8K UHD
+Resolution 1080p
 
 Emotion:
 Natural happiness
@@ -115,7 +117,7 @@ Pleasant surprise |
 | **화면 구성**        | **구도:** Face Close-up → Full Body Shot, Orbit Camera, Slow Zoom-out<br>**피사체:** 같은 여성과 주변에 떠오르는 신선한 딸기, 붉은 향기 입자<br>**배경:** 동일한 프리미엄 카페<br>**텍스트:** 없음                                                                                                                                                                             |
 | **내레이션 / 화면 카피** | **"어? 딸기향이 나네..."**                                                                                                                                                                                                                                                                                                                |
 | **사용 도구 및 목적**   | **ChatGPT:** 딸기 연출 이미지 생성<br>**네이토:** 카메라 이동 및 딸기 애니메이션 생성                                                                                                                                                                                                                                  |
-| **입력 프롬프트**      | *Young Korean woman smelling coffee aroma, surprised expression, fresh strawberries slowly floating around her, magical aroma particles, camera smoothly zooming out from face close-up to full body shot, dreamy cinematic atmosphere, warm premium coffee shop, ultra realistic, volumetric light, 35mm lens, HDR, 16:9, 8K UHD* |
+| **입력 프롬프트**      | *Young Korean woman smelling coffee aroma, surprised expression, fresh strawberries slowly floating around her, magical aroma particles, camera smoothly zooming out from face close-up to full body shot, dreamy cinematic atmosphere, warm premium coffee shop, ultra realistic, volumetric light, 35mm lens, HDR, 16:9, 8K UHD, Resolution 1080p* |
 
 |**영상 생성 프롬프트**  | *A close-up of a young Korean woman enjoying the scent of coffee (the woman in the image attached below). Spotting the scent of strawberries, she looks pleasantly surprised. Fresh ripe strawberries slowly emerge and float around her in slow motion. Delicate red aroma particles gracefully wrap around the air. The camera gently zooms out from close-ups of her face to full-body shots, creating a dreamy premium coffee commercial atmosphere.
 
@@ -131,6 +133,7 @@ Slow Zoomout
 35mm lens
 16:9
 8K UHD
+Resolution 1080p
 
 Operation:
 floating strawberries
@@ -149,12 +152,12 @@ The woman and the background in the image attached below are the same |
 | 항목               | 내용                                                                                                                                                                                                                                                                                                                        |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **씬 번호**         | **Scene 4**                                                                                                                                                                                                                                                                                                               |
-| **씬 길이**         | **4.0초**                                                                                                                                                                                                                                                                                                                  |
+| **씬 길이**         | **2.0초**                                                                                                                                                                                                                                                                                                                  |
 | **목표 메시지**       | 호주 전문 바리스타가 직접 로스팅한 스페셜티 원두라는 신뢰를 전달하며 광고를 마무리한다.                                                                                                                                                                                                                                                                         |
 | **화면 구성**        | **구도:** Match Cut → Macro Close-up → Hero Shot, Slow Push-in<br>**피사체:** 로스터기 내부에서 회전하는 스페셜티 원두와 브랜드 로고<br>**배경:** 프리미엄 전문 로스터리<br>**텍스트:** 「호주 전문 바리스타가 직접 로스팅해 추천한」<br>「Premium Specialty Coffee」<br>브랜드 로고 노출                                                                                                          |
 | **내레이션 / 화면 카피** | 내레이션 없음 / 잔잔한 프리미엄 BGM                                                                                                                                                                                                                                                                                                    |
 | **사용 도구 및 목적**   | **Google Flow NanoBanana Pro:** 로스터리 이미지 생성<br>**Runway Gen-4:** 원두 로스팅 영상 생성<br>**Suno AI:** 엔딩 배경음악 제작                                                                                                                                                                                                                                  |
-| **입력 프롬프트**      | *Fresh specialty coffee beans roasting inside premium coffee roaster, cinematic close-up, rich smoke, warm golden light, luxurious atmosphere, smooth transition from previous scene, premium coffee commercial ending, clean composition for brand logo and slogan, HDR, photorealistic, 100mm macro lens, 16:9, 8K UHD* |
+| **입력 프롬프트**      | *Fresh specialty coffee beans roasting inside premium coffee roaster, cinematic close-up, rich smoke, warm golden light, luxurious atmosphere, smooth transition from previous scene, premium coffee commercial ending, clean composition for brand logo and slogan, HDR, photorealistic, 100mm macro lens, 16:9, 8K UHD, Resolution 1080p* |
 
 |**영상 생성 프롬프트**  | *This is a smooth match cut where freshly baked specialty coffee beans from the previous coffee brewing scene roll inside a premium commercial coffee roaster. The beans rotate slowly in a perfectly synchronized movement while fragrant smoke rises naturally through the warm golden light. All the beans are added with rich oily texture and subtle highlights to emphasize freshness and premium quality.
 
@@ -181,6 +184,7 @@ Hero shot
 shallow depth
 16:9
 8K UHD
+Resolution 1080p
 
 Tasks:
 Spinning freshly baked specialty coffee beans
@@ -239,6 +243,7 @@ a slow push-in
 HDR
 16:9
 8K UHD
+Resolution 1080p
 Ultra photorealism
 
 Operation:
@@ -276,6 +281,7 @@ Close-up of your face
 a 50mm lens
 16:9
 8K UHD
+Resolution 1080p
 
 Emotions:
 natural happiness
@@ -295,22 +301,22 @@ a pleasant surprise **
 
 ## 7. 미디어 통합 & 일관성 관리
 - **해상도/비율 정리: 프롬프트에 화면 비율 / 출력 규격 넣음, 해상도는 같은 AI 사용하면 거의 동일. / 하지만 앞으론 해상도 비율 도 프롬프트에 규정 하고 해야 함을 알았음**
-- **톤앤매너 정리:배경 프롬프트 또는 Natural cinematic lighting 같은 분위기로 통일 **
+- **톤앤매너 정리:배경 프롬프트 또는 Natural cinematic lighting 같은 분위기로 통일**
 - **오디오 톤 매칭: 음성 / BGM 영상 길이에 맞춰 제작**
 - **캐릭터/스타일 일관성 유지 방법: 캐릭터 프롬프트, 이미지 프롬프트, 영상 프롬프트 따로 만들어 넣고 영상 제작. 많이 넣고 제작하니 오히려 더 퀄리티가 안나오기도 함. 심지어 이미지도 생성이 안됬음 GPT무료 버전에서는. 딱 필요한거만 넣고 돌려야 한다는걸 알게됨 / 가장 좋은건 이미지 넣고 프롬프트 넣고 하는게 가장 잘 유지됨**
 - **편집 도구 사용 범위:Capcut 사용 컷/자막/오디오 조정**
 
 ## 8. 제작 전략 (현실적 문제 대응)
-- **크레딧/대기열 대응 전략: 브랜드 로고 패키지 이미지 사용**
+- **크레딧/대기열 대응 전략: 씬 축소 / 브랜드 로고 패키지 정지 이미지+모션 사용**
 - **도구 접근성 문제 대응:다른 Gen AI 사용**
 
 ---
 
 ## 9. 최종 영상 스펙
-- **파일명:SA Joe Coffee.mp4 **
+- **파일명:SA Joe Coffee.mp4**
 - **길이(초):10초**
 - **해상도: 1080p 이상 Flow (veo3.1 fast)**
 - **프레임레이트: 30 fps**
 - **비디오/오디오 코덱:AVC (H.264) / AAC**
 - **포함된 AI 시각 요소:AI 로 제작된 이미지/영상 사용됨 **
-- **포함된 AI 청각 요소:AI 로 제작된 음성/BGM 사용**
+- **포함된 AI 청각 요소: Google AI Studio  TTS 오디오 크랙으로 제작된 음성/ suno로 만든 BGM 사용**
