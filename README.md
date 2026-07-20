@@ -259,8 +259,8 @@ Like the attached image, the heart shape should come out completely**
 
 ## 프롬프트 수정 로그 2
 - **대상 씬: Scene 2**
-- **수정 전 의도: 여성이 맛있다 하면서 향을 느끼는 장면**
-- **발생한 문제: 한국어로 작성한 프롬프트에 "음.... 맛있어요" 라는 부분이 영어로 플롬프트 변환할때 "Well... delicious" 변화된걸 인지 못하고 그냥 씀**
+- **수정 전 의도: 여성이 "음.. 맛있다"라고 말 하면서 향을 느끼는 장면**
+- **발생한 문제: 한국어로 작성한 프롬프트에 "음.... 맛있다" 라는 부분이 영어로 플롬프트 변환할때 "Well... delicious" 변화된걸 인지 못하고 그냥 씀**
 - **수정 후 변경 내용: 한국어로 맛있다 라고 한다로 변경**
 **변경 프롬프트:A young Korean woman is presented with a freshly made heart latte by a specialty coffee barista. She closes her eyes as she takes her first sip. A warm smile slowly appears. She gently says, "음...... 맛-있-다..." in Korean. Then, gently inhale the scent of coffee through her nose, and then open her eyes with a pleasantly surprised expression.
 
